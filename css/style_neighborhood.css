@@ -1,0 +1,45 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 150%;
+    background-color:rgb(233, 206, 250);
+}
+
+header {
+    background-color: rgb(252, 148, 252);
+}
+
+nav {
+    background-color: rgb(176, 189, 250);
+}
+
+main {
+    background-color: rgb(211, 162, 243);
+    font-size: 100%;
+}
+
+footer {
+    background-color: rgb(238, 95, 126);
+}
+
+li {
+    display:inline-block;
+    margin-inline-start: 15%;
+    width: 15%;
+}
+
+h1 {
+    text-align:center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkred;
+}
+
+p {
+    line-height: 200%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
